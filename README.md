@@ -8,8 +8,8 @@ Trabajos prácticos de frontend con React y TypeScript.
   `practicaN/` es un proyecto completo y funcionando hasta la práctica N inclusive
   (por ejemplo, `practica3` incluye lo de las prácticas 1, 2 y 3).
 
-La práctica 9 no tiene carpeta porque es de análisis: sus respuestas y las del
-resto de consignas "para pensar" están en [`RESPUESTAS.md`](RESPUESTAS.md).
+Las respuestas a las consignas "para pensar" se explican explícitamente en
+[`RESPUESTAS.md`](RESPUESTAS.md).
 
 ## Estructura
 
