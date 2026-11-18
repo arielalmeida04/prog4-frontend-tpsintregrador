@@ -9,14 +9,14 @@ Trabajos prácticos de frontend con React y TypeScript.
   (por ejemplo, `practica3` incluye lo de las prácticas 1, 2 y 3).
 
 La práctica 9 no tiene carpeta porque es de análisis: sus respuestas y las del
-resto de consignas "para pensar" están en [`PARA-PENSAR.md`](PARA-PENSAR.md).
+resto de consignas "para pensar" están en [`RESPUESTAS.md`](RESPUESTAS.md).
 
 ## Estructura
 
 ```
 programacion4-react/
 ├── README.md
-├── PARA-PENSAR.md
+├── RESPUESTAS.md
 ├── ejercicios-basicos/
 │   ├── index.html
 │   ├── package.json
